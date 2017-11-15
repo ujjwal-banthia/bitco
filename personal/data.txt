@@ -1,0 +1,1402 @@
+2017-10-14 17:22:18.059253 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5749.45464000 ChangePercent: 0.01454996 Bid: 5749.45464000 Ask: 5749.98999998 QuoteVolume: 5512.32051770 NetVolume: 31199442.71989936 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:04:19.987467 Period: 10000.0ms Symbol: btcusd LastTrade: 5715.1 Bid: 5715.1 Ask: 5717.8 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:04:40.110264 Period: 10000.0ms Symbol: btcusd LastTrade: 5713.3 Bid: 5711.0 Ask: 5712.8 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:04:45.227666 Period: 10000.0ms Symbol: btcusd LastTrade: 5711.0 Bid: 5711.0 Ask: 5712.8 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:04:51.915515 Period: 10000.0ms Symbol: btcusd LastTrade: 5711.7 Bid: 5712.1 Ask: 5712.2 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:39:06.184252 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.00000000 ChangePercent: 0.01272742 Bid: 5715.20000009 Ask: 5720.18999918 QuoteVolume: 5523.50108600 NetVolume: 31267916.65700223 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:39:16.454106 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.00000000 ChangePercent: 0.01272742 Bid: 5715.20000012 Ask: 5720.18999910 QuoteVolume: 5523.50108600 NetVolume: 31267916.65700223 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:39:28.112970 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000015 ChangePercent: 0.01309414 Bid: 5715.20000015 Ask: 5720.18999909 QuoteVolume: 5523.50108600 NetVolume: 31267916.65700223 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:39:36.454130 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5721.00999999 ChangePercent: 0.01268794 Bid: 5715.20000019 Ask: 5721.00999995 QuoteVolume: 5523.36994423 NetVolume: 31267302.58511951 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:39:46.183580 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5721.00999996 ChangePercent: 0.01454335 Bid: 5715.20000023 Ask: 5721.00999999 QuoteVolume: 5523.36994423 NetVolume: 31267302.58511951 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:09:44.848445 Period: 10000.0ms Symbol: btcusd LastTrade: 5714.8 Bid: 5715.3 Ask: 5717.3 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:39:56.798510 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5721.00999999 ChangePercent: 0.01454335 Bid: 5715.20000003 Ask: 5721.00999994 QuoteVolume: 5523.36994423 NetVolume: 31267302.58511951 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:09:54.895046 Period: 10000.0ms Symbol: btcusd LastTrade: 5715.2 Bid: 5715.3 Ask: 5717.3 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:40:11.189284 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5721.00999999 ChangePercent: 0.01454335 Bid: 5715.20000003 Ask: 5715.20000012 QuoteVolume: 5523.36994423 NetVolume: 31267302.58511951 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:10:20.019660 Period: 10000.0ms Symbol: btcusd LastTrade: 5719.8 Bid: 5719.6 Ask: 5721.4 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:40:24.633761 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000012 ChangePercent: 0.01562368 Bid: 5715.00999999 Ask: 5715.20000012 QuoteVolume: 5523.36994423 NetVolume: 31267302.58511951 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:40:26.186124 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000012 ChangePercent: 0.01605506 Bid: 5715.00999999 Ask: 5715.20000012 QuoteVolume: 5523.36994423 NetVolume: 31267302.58511951 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:10:26.914483 Period: 10000.0ms Symbol: btcusd LastTrade: 5719.8 Bid: 5719.6 Ask: 5721.4 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:40:36.273092 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000012 ChangePercent: 0.01605506 Bid: 5715.00999999 Ask: 5715.20000012 QuoteVolume: 5523.36994423 NetVolume: 31267302.58511951 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:10:34.952297 Period: 10000.0ms Symbol: btcusd LastTrade: 5721.6 Bid: 5719.6 Ask: 5721.4 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:41:06.838965 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.01000003 ChangePercent: 0.01690569 Bid: 5715.01000003 Ask: 5715.20000012 QuoteVolume: 5519.67301220 NetVolume: 31246502.93793028 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:41:07.904093 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.01000003 ChangePercent: 0.01690569 Bid: 5715.01000003 Ask: 5715.20000012 QuoteVolume: 5519.67301220 NetVolume: 31246502.93793028 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:11:11.227857 Period: 10000.0ms Symbol: btcusd LastTrade: 5715.0 Bid: 5719.6 Ask: 5721.4 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:41:16.274603 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5720.99999994 ChangePercent: 0.01797153 Bid: 5715.00000003 Ask: 5720.99999994 QuoteVolume: 5519.67301220 NetVolume: 31246502.93793028 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:11:15.530385 Period: 10000.0ms Symbol: btcusd LastTrade: 5715.0 Bid: 5719.6 Ask: 5721.4 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:41:41.205175 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.00000006 ChangePercent: 0.01744703 Bid: 5715.20000022 Ask: 5720.00000000 QuoteVolume: 5520.53407303 NetVolume: 31251719.85763775 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:41:41.221252 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.00000006 ChangePercent: 0.01744703 Bid: 5715.20000022 Ask: 5720.00000000 QuoteVolume: 5520.53407303 NetVolume: 31251719.85763775 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:11:44.044496 Period: 10000.0ms Symbol: btcusd LastTrade: 5719.3 Bid: 5717.1 Ask: 5718.1 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:41:49.298846 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5718.00000000 ChangePercent: 0.01906968 Bid: 5715.20000028 Ask: 5718.00000000 QuoteVolume: 5520.53407303 NetVolume: 31251719.85763775 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:41:56.258799 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5718.00000000 ChangePercent: 0.01906968 Bid: 5715.20000035 Ask: 5718.00000000 QuoteVolume: 5520.53407303 NetVolume: 31251719.85763775 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:11:58.954516 Period: 10000.0ms Symbol: btcusd LastTrade: 5717.3 Bid: 5717.1 Ask: 5718.1 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:42:06.787091 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000044 ChangePercent: 0.01857066 Bid: 5715.20000044 Ask: 5717.99999999 QuoteVolume: 5520.53407303 NetVolume: 31251719.85763775 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:12:04.889350 Period: 10000.0ms Symbol: btcusd LastTrade: 5708.8 Bid: 5717.1 Ask: 5718.1 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:42:16.777624 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000012 ChangePercent: 0.01621621 Bid: 5716.00000000 Ask: 5718.00000000 QuoteVolume: 5520.53407303 NetVolume: 31251719.85763775 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:12:14.782019 Period: 10000.0ms Symbol: btcusd LastTrade: 5708.5 Bid: 5717.1 Ask: 5718.1 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:42:26.798074 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000012 ChangePercent: 0.01869775 Bid: 5715.20000012 Ask: 5718.00000000 QuoteVolume: 5520.53407303 NetVolume: 31251719.85763775 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:12:25.548928 Period: 10000.0ms Symbol: btcusd LastTrade: 5707.5 Bid: 5707.6 Ask: 5707.9 QuoteVolume: 53639.24735753 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 17:42:49.955893 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000012 ChangePercent: 0.01621621 Bid: 5715.20000012 Ask: 5716.99999894 QuoteVolume: 5517.77674690 NetVolume: 31237058.81419660 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:42:50.141939 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5715.20000012 ChangePercent: 0.01621621 Bid: 5715.20000012 Ask: 5716.99999894 QuoteVolume: 5517.77674690 NetVolume: 31237058.81419660 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:43:06.444170 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5707.06375423 ChangePercent: 0.01460877 Bid: 5707.06375420 Ask: 5715.09999990 QuoteVolume: 5517.77674690 NetVolume: 31237058.81419660 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:43:07.224985 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5707.06375423 ChangePercent: 0.01460877 Bid: 5707.06375420 Ask: 5715.09999990 QuoteVolume: 5517.77674690 NetVolume: 31237058.81419660 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:43:26.202703 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5707.06375420 ChangePercent: 0.01460877 Bid: 5705.00000000 Ask: 5707.06375420 QuoteVolume: 5517.77674690 NetVolume: 31237058.81419660 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:44:02.744349 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5705.00000000 ChangePercent: 0.01424205 Bid: 5705.00000000 Ask: 5713.79999958 QuoteVolume: 5522.01072069 NetVolume: 31261306.67498556 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:44:02.921809 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5705.00000000 ChangePercent: 0.01424205 Bid: 5705.00000000 Ask: 5713.79999958 QuoteVolume: 5522.01072069 NetVolume: 31261306.67498556 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:44:07.101415 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5705.00000000 ChangePercent: 0.01512419 Bid: 5705.00000000 Ask: 5713.79999957 QuoteVolume: 5522.01072069 NetVolume: 31261306.67498556 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:44:16.465448 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5705.00000000 ChangePercent: 0.01512419 Bid: 5705.00000000 Ask: 5713.79999944 QuoteVolume: 5522.01072069 NetVolume: 31261306.67498556 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:44:26.414725 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5705.00000000 ChangePercent: 0.01512419 Bid: 5705.00000000 Ask: 5713.79999939 QuoteVolume: 5522.01072069 NetVolume: 31261306.67498556 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:44:36.467799 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5705.00000000 ChangePercent: 0.01584757 Bid: 5705.00000001 Ask: 5716.98049978 QuoteVolume: 5522.01072069 NetVolume: 31261306.67498556 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:44:57.114316 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5705.00000001 ChangePercent: 0.01584757 Bid: 5705.00000001 Ask: 5716.98049958 QuoteVolume: 5521.30487847 NetVolume: 31257369.60089264 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:45:16.182563 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5706.00000000 ChangePercent: 0.01602563 Bid: 5706.00000004 Ask: 5716.85049949 QuoteVolume: 5521.30487847 NetVolume: 31257369.60089264 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:45:16.990583 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5706.00000000 ChangePercent: 0.01602563 Bid: 5706.00000004 Ask: 5716.85049946 QuoteVolume: 5521.30487847 NetVolume: 31257369.60089264 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:45:45.897329 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5716.85049940 ChangePercent: 0.01757596 Bid: 5706.79999955 Ask: 5716.85049931 QuoteVolume: 5519.48534826 NetVolume: 31247233.03428981 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:45:46.043800 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5716.85049940 ChangePercent: 0.01757596 Bid: 5706.79999955 Ask: 5716.85049931 QuoteVolume: 5519.48534826 NetVolume: 31247233.03428981 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:45:46.218853 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5716.85049940 ChangePercent: 0.01757596 Bid: 5706.79999959 Ask: 5716.85049925 QuoteVolume: 5519.48534826 NetVolume: 31247233.03428981 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:46:01.465128 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5716.85049940 ChangePercent: 0.01757596 Bid: 5707.00000008 Ask: 5716.85049913 QuoteVolume: 5519.48534826 NetVolume: 31247233.03428981 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 17:46:06.375308 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 5716.85049940 ChangePercent: 0.01757596 Bid: 5707.00000012 Ask: 5716.85049907 QuoteVolume: 5519.48534826 NetVolume: 31247233.03428981 24hrLow: 5500.00000000 24hrHigh: 5823.99999998 Frozen: 0
+
+2017-10-14 12:41:33.552527 Period: 10000.0ms Symbol: btcusd LastTrade: 5670.0 Bid: 5669.4 Ask: 5669.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:41:43.536920 Period: 10000.0ms Symbol: btcusd LastTrade: 5663.5 Bid: 5669.4 Ask: 5669.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:41:53.718400 Period: 10000.0ms Symbol: btcusd LastTrade: 5664.2 Bid: 5664.2 Ask: 5667.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:42:03.581880 Period: 10000.0ms Symbol: btcusd LastTrade: 5663.4 Bid: 5664.2 Ask: 5667.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:42:13.529343 Period: 10000.0ms Symbol: btcusd LastTrade: 5659.0 Bid: 5664.2 Ask: 5667.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:42:23.505402 Period: 10000.0ms Symbol: btcusd LastTrade: 5656.8 Bid: 5655.1 Ask: 5656.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:42:33.526356 Period: 10000.0ms Symbol: btcusd LastTrade: 5654.3 Bid: 5649.5 Ask: 5654.3 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:42:43.090635 Period: 10000.0ms Symbol: btcusd LastTrade: 5654.2 Bid: 5654.2 Ask: 5654.3 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:42:53.734095 Period: 10000.0ms Symbol: btcusd LastTrade: 5650.8 Bid: 5650.0 Ask: 5650.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:43:03.531032 Period: 10000.0ms Symbol: btcusd LastTrade: 5649.0 Bid: 5648.5 Ask: 5648.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:43:13.700862 Period: 10000.0ms Symbol: btcusd LastTrade: 5648.8 Bid: 5648.8 Ask: 5649.0 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:43:25.019947 Period: 10000.0ms Symbol: btcusd LastTrade: 5650.0 Bid: 5648.8 Ask: 5649.0 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:43:33.523392 Period: 10000.0ms Symbol: btcusd LastTrade: 5653.2 Bid: 5651.1 Ask: 5660.0 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:43:43.493843 Period: 10000.0ms Symbol: btcusd LastTrade: 5660.0 Bid: 5659.9 Ask: 5665.4 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:43:53.678339 Period: 10000.0ms Symbol: btcusd LastTrade: 5664.5 Bid: 5664.5 Ask: 5664.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:44:03.526440 Period: 10000.0ms Symbol: btcusd LastTrade: 5667.3 Bid: 5665.0 Ask: 5666.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:44:13.539557 Period: 10000.0ms Symbol: btcusd LastTrade: 5669.5 Bid: 5665.0 Ask: 5666.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:44:23.501997 Period: 10000.0ms Symbol: btcusd LastTrade: 5665.4 Bid: 5665.0 Ask: 5666.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:44:33.597826 Period: 10000.0ms Symbol: btcusd LastTrade: 5661.4 Bid: 5665.0 Ask: 5666.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:44:43.093992 Period: 10000.0ms Symbol: btcusd LastTrade: 5662.9 Bid: 5665.0 Ask: 5666.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:44:53.111039 Period: 10000.0ms Symbol: btcusd LastTrade: 5662.1 Bid: 5665.0 Ask: 5666.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:45:03.531126 Period: 10000.0ms Symbol: btcusd LastTrade: 5659.0 Bid: 5660.1 Ask: 5661.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:45:13.494573 Period: 10000.0ms Symbol: btcusd LastTrade: 5660.2 Bid: 5660.1 Ask: 5661.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:45:23.944032 Period: 10000.0ms Symbol: btcusd LastTrade: 5662.4 Bid: 5662.4 Ask: 5662.5 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:45:33.321673 Period: 10000.0ms Symbol: btcusd LastTrade: 5666.5 Bid: 5665.0 Ask: 5667.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:45:43.162905 Period: 10000.0ms Symbol: btcusd LastTrade: 5669.2 Bid: 5669.2 Ask: 5669.3 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:45:53.551073 Period: 10000.0ms Symbol: btcusd LastTrade: 5670.0 Bid: 5669.2 Ask: 5669.3 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:46:03.932215 Period: 10000.0ms Symbol: btcusd LastTrade: 5674.7 Bid: 5669.2 Ask: 5669.3 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:46:13.511423 Period: 10000.0ms Symbol: btcusd LastTrade: 5680.0 Bid: 5679.9 Ask: 5680.0 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:46:23.614892 Period: 10000.0ms Symbol: btcusd LastTrade: 5680.0 Bid: 5679.9 Ask: 5680.0 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:46:34.054939 Period: 10000.0ms Symbol: btcusd LastTrade: 5679.4 Bid: 5679.1 Ask: 5679.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:46:43.536831 Period: 10000.0ms Symbol: btcusd LastTrade: 5679.9 Bid: 5679.8 Ask: 5679.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:46:53.513612 Period: 10000.0ms Symbol: btcusd LastTrade: 5688.5 Bid: 5679.8 Ask: 5679.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:47:03.112596 Period: 10000.0ms Symbol: btcusd LastTrade: 5688.2 Bid: 5685.3 Ask: 5687.9 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:47:13.517053 Period: 10000.0ms Symbol: btcusd LastTrade: 5685.9 Bid: 5685.7 Ask: 5685.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:47:23.553286 Period: 10000.0ms Symbol: btcusd LastTrade: 5688.9 Bid: 5685.7 Ask: 5685.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:47:33.524013 Period: 10000.0ms Symbol: btcusd LastTrade: 5688.6 Bid: 5685.7 Ask: 5685.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:47:43.541552 Period: 10000.0ms Symbol: btcusd LastTrade: 5686.3 Bid: 5685.7 Ask: 5685.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:47:53.527804 Period: 10000.0ms Symbol: btcusd LastTrade: 5685.3 Bid: 5685.0 Ask: 5685.1 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:48:03.531139 Period: 10000.0ms Symbol: btcusd LastTrade: 5678.0 Bid: 5680.5 Ask: 5683.5 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:48:13.109248 Period: 10000.0ms Symbol: btcusd LastTrade: 5678.0 Bid: 5680.7 Ask: 5680.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:48:23.753089 Period: 10000.0ms Symbol: btcusd LastTrade: 5680.7 Bid: 5680.7 Ask: 5680.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:48:33.528566 Period: 10000.0ms Symbol: btcusd LastTrade: 5680.4 Bid: 5680.4 Ask: 5680.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:48:43.526128 Period: 10000.0ms Symbol: btcusd LastTrade: 5680.4 Bid: 5680.4 Ask: 5680.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:48:53.557334 Period: 10000.0ms Symbol: btcusd LastTrade: 5680.4 Bid: 5680.4 Ask: 5680.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:49:03.765875 Period: 10000.0ms Symbol: btcusd LastTrade: 5678.9 Bid: 5680.7 Ask: 5680.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:49:13.562987 Period: 10000.0ms Symbol: btcusd LastTrade: 5680.7 Bid: 5680.7 Ask: 5680.8 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:49:23.544813 Period: 10000.0ms Symbol: btcusd LastTrade: 5683.7 Bid: 5683.9 Ask: 5684.2 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:49:33.882795 Period: 10000.0ms Symbol: btcusd LastTrade: 5683.2 Bid: 5683.2 Ask: 5684.6 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:49:43.137468 Period: 10000.0ms Symbol: btcusd LastTrade: 5677.6 Bid: 5683.2 Ask: 5684.6 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:49:53.531045 Period: 10000.0ms Symbol: btcusd LastTrade: 5677.8 Bid: 5677.7 Ask: 5680.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:50:03.675127 Period: 10000.0ms Symbol: btcusd LastTrade: 5677.9 Bid: 5677.7 Ask: 5680.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:50:13.187450 Period: 10000.0ms Symbol: btcusd LastTrade: 5678.2 Bid: 5678.6 Ask: 5678.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:50:23.560320 Period: 10000.0ms Symbol: btcusd LastTrade: 5678.6 Bid: 5678.6 Ask: 5678.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:50:33.524343 Period: 10000.0ms Symbol: btcusd LastTrade: 5678.7 Bid: 5678.6 Ask: 5681.7 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-14 12:50:44.599139 Period: 10000.0ms Symbol: btcusd LastTrade: 5678.7 Bid: 5678.1 Ask: 5678.5 QuoteVolume: 52858.82028837 24hrLow: 5500.0 24hrHigh: 5829.8
+
+2017-10-31 11:15:19.036238 Period: 10000.0ms Symbol: btcusd LastTrade: 6210.6 Bid: 6209.7 Ask: 6209.9 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:15:24.384368 Period: 10000.0ms Symbol: btcusd LastTrade: 6209.8 Bid: 6210.1 Ask: 6210.5 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:15:35.641396 Period: 10000.0ms Symbol: btcusd LastTrade: 6207.5 Bid: 6207.4 Ask: 6207.8 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:20:58.467853 Period: 10000.0ms Symbol: btcusd LastTrade: 6219.0 Bid: 6218.9 Ask: 6219.0 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:21:08.458371 Period: 10000.0ms Symbol: btcusd LastTrade: 6218.9 Bid: 6218.9 Ask: 6219.0 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:21:19.684110 Period: 10000.0ms Symbol: btcusd LastTrade: 6220.0 Bid: 6218.9 Ask: 6219.0 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:21:29.133444 Period: 10000.0ms Symbol: btcusd LastTrade: 6223.2 Bid: 6223.1 Ask: 6223.2 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:21:38.710793 Period: 10000.0ms Symbol: btcusd LastTrade: 6223.2 Bid: 6223.1 Ask: 6223.2 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:21:49.185315 Period: 10000.0ms Symbol: btcusd LastTrade: 6229.2 Bid: 6224.1 Ask: 6225.4 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:22:09.981319 Period: 10000.0ms Symbol: btcusd LastTrade: 6229.6 Bid: 6229.5 Ask: 6229.6 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:22:18.438763 Period: 10000.0ms Symbol: btcusd LastTrade: 6229.5 Bid: 6229.5 Ask: 6229.6 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:22:29.576033 Period: 10000.0ms Symbol: btcusd LastTrade: 6229.8 Bid: 6229.7 Ask: 6229.8 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:22:38.683571 Period: 10000.0ms Symbol: btcusd LastTrade: 6230.0 Bid: 6229.9 Ask: 6230.0 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:22:48.844264 Period: 10000.0ms Symbol: btcusd LastTrade: 6230.9 Bid: 6230.9 Ask: 6231.0 QuoteVolume: 24495.63075745 24hrLow: 6006.2 24hrHigh: 6235.9
+
+2017-10-31 11:22:58.458677 Period: 10000.0ms Symbol: btcusd LastTrade: 6231.9 Bid: 6231.9 Ask: 6232.0 QuoteVolume: 25383.06244191 24hrLow: 6006.2 24hrHigh: 6228.6
+
+2017-10-31 11:23:07.916657 Period: 10000.0ms Symbol: btcusd LastTrade: 6231.9 Bid: 6231.9 Ask: 6232.0 QuoteVolume: 25383.06244191 24hrLow: 6006.2 24hrHigh: 6228.6
+
+2017-10-31 11:23:18.913109 Period: 10000.0ms Symbol: btcusd LastTrade: 6232.3 Bid: 6232.2 Ask: 6232.3 QuoteVolume: 25383.06244191 24hrLow: 6006.2 24hrHigh: 6228.6
+
+2017-10-31 11:23:28.511964 Period: 10000.0ms Symbol: btcusd LastTrade: 6232.2 Bid: 6232.2 Ask: 6232.3 QuoteVolume: 25383.06244191 24hrLow: 6006.2 24hrHigh: 6228.6
+
+2017-10-31 11:23:38.472791 Period: 10000.0ms Symbol: btcusd LastTrade: 6233.0 Bid: 6232.9 Ask: 6234.7 QuoteVolume: 25383.06244191 24hrLow: 6006.2 24hrHigh: 6228.6
+
+2017-10-31 11:24:19.819267 Period: 10000.0ms Symbol: btcusd LastTrade: 6232.3 Bid: 6232.2 Ask: 6232.3 QuoteVolume: 25383.06244191 24hrLow: 6006.2 24hrHigh: 6228.6
+
+2017-11-03 10:22:38.571689 Period: 10000.0ms Symbol: btcusd LastTrade: 7381.8 Bid: 7384.8 Ask: 7386.9 QuoteVolume: 94175.73895641 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:23:37.586751 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.9 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 94175.73895641 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:25:03.648161 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.0 Bid: 7410.9 Ask: 7411.0 QuoteVolume: 94175.73895641 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:25:05.871568 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.0 Bid: 7410.9 Ask: 7411.0 QuoteVolume: 94175.73895641 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:25:08.100436 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.0 Bid: 7410.9 Ask: 7411.0 QuoteVolume: 94175.73895641 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:26:17.548801 Period: 10000.0ms Symbol: btcusd LastTrade: 7405.1 Bid: 7405.1 Ask: 7409.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:26:20.729173 Period: 10000.0ms Symbol: btcusd LastTrade: 7405.1 Bid: 7405.1 Ask: 7409.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:26:22.839914 Period: 10000.0ms Symbol: btcusd LastTrade: 7405.2 Bid: 7405.1 Ask: 7405.2 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:36:39.744913 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7447.2 Ask: 7447.4 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:36:41.775433 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7447.2 Ask: 7447.4 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:36:44.004619 Period: 10000.0ms Symbol: btcusd LastTrade: 7447.4 Bid: 7445.4 Ask: 7447.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:36:45.945774 Period: 10000.0ms Symbol: btcusd LastTrade: 7447.4 Bid: 7445.4 Ask: 7447.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:36:48.472339 Period: 10000.0ms Symbol: btcusd LastTrade: 7447.4 Bid: 7445.4 Ask: 7447.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:36:50.528880 Period: 10000.0ms Symbol: btcusd LastTrade: 7447.5 Bid: 7445.5 Ask: 7447.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:36:53.443253 Period: 10000.0ms Symbol: btcusd LastTrade: 7447.5 Bid: 7445.5 Ask: 7447.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:36:57.685422 Period: 10000.0ms Symbol: btcusd LastTrade: 7447.5 Bid: 7445.5 Ask: 7447.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:37:08.649517 Period: 10000.0ms Symbol: btcusd LastTrade: 7446.9 Bid: 7445.5 Ask: 7446.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:37:11.293031 Period: 10000.0ms Symbol: btcusd LastTrade: 7446.4 Bid: 7445.5 Ask: 7446.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:37:15.247138 Period: 10000.0ms Symbol: btcusd LastTrade: 7446.4 Bid: 7445.5 Ask: 7446.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:37:17.446691 Period: 10000.0ms Symbol: btcusd LastTrade: 7446.4 Bid: 7445.5 Ask: 7446.5 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:37:20.176338 Period: 10000.0ms Symbol: btcusd LastTrade: 7446.8 Bid: 7445.7 Ask: 7446.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:32.037931 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.7 Bid: 7444.0 Ask: 7444.6 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:33.942244 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.6 Bid: 7444.5 Ask: 7444.7 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:35.153382 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.6 Bid: 7444.5 Ask: 7444.7 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:37.022019 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.6 Bid: 7444.5 Ask: 7444.7 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:39.293801 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.6 Bid: 7444.5 Ask: 7444.7 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:41.296694 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.6 Bid: 7444.5 Ask: 7444.7 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:42.596813 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.0 Ask: 7444.3 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:44.642877 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.0 Ask: 7444.3 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:47.343848 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.0 Ask: 7444.3 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:48.353459 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.0 Ask: 7444.3 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:49.694726 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:50.573309 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:52.053114 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.0 Ask: 7444.3 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:52.899396 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:55.135208 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:38:59.080227 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.9 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:00.759325 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:01.612664 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:03.050672 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:04.568459 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:07.304390 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:11.725161 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:13.895698 Period: 10000.0ms Symbol: btcusd LastTrade: 7444.0 Bid: 7444.8 Ask: 7444.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:15.998991 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.4 Bid: 7438.9 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:18.100105 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.4 Bid: 7438.9 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:19.683876 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.3 Bid: 7439.8 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:21.286228 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.3 Bid: 7439.8 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:22.440698 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.3 Bid: 7439.8 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:24.282906 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.3 Bid: 7439.8 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:26.482363 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.3 Bid: 7439.8 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:27.246516 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.3 Bid: 7439.8 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:28.731228 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.3 Bid: 7439.8 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:31.165633 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.3 Ask: 7420.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:32.491310 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.3 Ask: 7420.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:33.713188 Period: 10000.0ms Symbol: btcusd LastTrade: 7435.3 Bid: 7439.8 Ask: 7439.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:35.664235 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.3 Ask: 7420.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:39.159701 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.3 Ask: 7420.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:40.437788 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.3 Ask: 7420.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:57.746039 Period: 10000.0ms Symbol: btcusd LastTrade: 7425.5 Bid: 7424.0 Ask: 7425.6 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:39:58.492599 Period: 10000.0ms Symbol: btcusd LastTrade: 7425.5 Bid: 7424.0 Ask: 7425.6 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:00.674433 Period: 10000.0ms Symbol: btcusd LastTrade: 7426.8 Bid: 7432.8 Ask: 7433.4 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:02.408448 Period: 10000.0ms Symbol: btcusd LastTrade: 7426.8 Bid: 7432.8 Ask: 7433.4 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:19.723008 Period: 10000.0ms Symbol: btcusd LastTrade: 7426.9 Bid: 7426.8 Ask: 7426.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:22.488407 Period: 10000.0ms Symbol: btcusd LastTrade: 7426.8 Bid: 7426.8 Ask: 7426.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:24.457028 Period: 10000.0ms Symbol: btcusd LastTrade: 7426.9 Bid: 7426.8 Ask: 7426.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:26.190516 Period: 10000.0ms Symbol: btcusd LastTrade: 7426.9 Bid: 7426.8 Ask: 7426.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:29.711110 Period: 10000.0ms Symbol: btcusd LastTrade: 7426.9 Bid: 7426.8 Ask: 7426.9 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:32.020790 Period: 10000.0ms Symbol: btcusd LastTrade: 7428.8 Bid: 7426.8 Ask: 7428.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:33.255477 Period: 10000.0ms Symbol: btcusd LastTrade: 7428.8 Bid: 7426.8 Ask: 7428.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:34.979482 Period: 10000.0ms Symbol: btcusd LastTrade: 7428.8 Bid: 7426.8 Ask: 7428.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:39.254332 Period: 10000.0ms Symbol: btcusd LastTrade: 7428.8 Bid: 7426.8 Ask: 7428.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:42.203127 Period: 10000.0ms Symbol: btcusd LastTrade: 7422.0 Bid: 7421.9 Ask: 7424.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:44.886060 Period: 10000.0ms Symbol: btcusd LastTrade: 7422.0 Bid: 7421.9 Ask: 7424.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:46.625850 Period: 10000.0ms Symbol: btcusd LastTrade: 7422.0 Bid: 7421.9 Ask: 7424.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:48.441897 Period: 10000.0ms Symbol: btcusd LastTrade: 7422.0 Bid: 7421.9 Ask: 7424.8 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:51.153988 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.9 Bid: 7421.8 Ask: 7422.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:53.221401 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.9 Bid: 7421.8 Ask: 7422.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:54.621687 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.9 Bid: 7421.8 Ask: 7422.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:55.914296 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.9 Bid: 7421.8 Ask: 7422.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:40:58.590948 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.9 Bid: 7421.8 Ask: 7422.0 QuoteVolume: 92741.34433486 24hrLow: 6753.0 24hrHigh: 7447.0
+
+2017-11-03 10:41:00.605461 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.9 Bid: 7421.8 Ask: 7422.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:02.457610 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.2 Bid: 7420.0 Ask: 7421.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:04.790595 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.2 Bid: 7420.0 Ask: 7421.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:06.555094 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.2 Bid: 7420.0 Ask: 7421.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:08.885420 Period: 10000.0ms Symbol: btcusd LastTrade: 7421.2 Bid: 7420.0 Ask: 7421.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:11.771022 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.1 Bid: 7418.0 Ask: 7421.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:13.832783 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.1 Bid: 7418.0 Ask: 7421.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:15.035201 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.1 Bid: 7418.0 Ask: 7421.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:16.809114 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.1 Bid: 7418.0 Ask: 7421.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:18.420965 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.1 Bid: 7418.0 Ask: 7421.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:20.002856 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.1 Bid: 7418.0 Ask: 7421.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:21.992418 Period: 10000.0ms Symbol: btcusd LastTrade: 7414.3 Bid: 7418.4 Ask: 7419.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:41.556257 Period: 10000.0ms Symbol: btcusd LastTrade: 7412.5 Bid: 7412.4 Ask: 7412.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:43.401270 Period: 10000.0ms Symbol: btcusd LastTrade: 7412.6 Bid: 7412.5 Ask: 7412.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:45.140034 Period: 10000.0ms Symbol: btcusd LastTrade: 7412.6 Bid: 7412.5 Ask: 7412.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:41:46.883930 Period: 10000.0ms Symbol: btcusd LastTrade: 7412.6 Bid: 7412.5 Ask: 7412.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:03.784336 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.4 Bid: 7408.9 Ask: 7410.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:05.945642 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.4 Bid: 7408.9 Ask: 7410.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:08.765813 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.4 Bid: 7408.9 Ask: 7410.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:12.368362 Period: 10000.0ms Symbol: btcusd LastTrade: 7408.3 Bid: 7406.3 Ask: 7408.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:15.429876 Period: 10000.0ms Symbol: btcusd LastTrade: 7408.3 Bid: 7406.3 Ask: 7408.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:17.906880 Period: 10000.0ms Symbol: btcusd LastTrade: 7408.3 Bid: 7406.3 Ask: 7408.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:20.819187 Period: 10000.0ms Symbol: btcusd LastTrade: 7408.3 Bid: 7406.3 Ask: 7408.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:22.666848 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.2 Bid: 7404.2 Ask: 7407.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:25.705265 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.2 Bid: 7404.2 Ask: 7407.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:28.098022 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.2 Bid: 7404.2 Ask: 7407.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:29.894419 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.2 Bid: 7404.2 Ask: 7407.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:31.589901 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7400.0 Ask: 7401.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:33.307947 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7400.0 Ask: 7401.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:35.309733 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7400.0 Ask: 7401.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:36.788660 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7400.0 Ask: 7401.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:38.263920 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7400.0 Ask: 7401.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:40.521859 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7400.0 Ask: 7401.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:43.499962 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7389.9 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:45.099174 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7389.9 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:46.469950 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7389.9 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:48.340495 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7389.9 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:49.566185 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7389.9 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:51.091243 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.0 Bid: 7389.9 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:54.253247 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.6 Bid: 7398.5 Ask: 7398.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:55.670994 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.6 Bid: 7398.5 Ask: 7398.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:56.885369 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.6 Bid: 7398.5 Ask: 7398.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:42:58.246593 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.6 Bid: 7398.5 Ask: 7398.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:02.261448 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.2 Bid: 7393.0 Ask: 7397.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:03.532923 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.2 Bid: 7393.0 Ask: 7397.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:05.006129 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.2 Bid: 7393.0 Ask: 7397.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:07.478614 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.2 Bid: 7393.0 Ask: 7397.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:09.431787 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.2 Bid: 7393.0 Ask: 7397.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:10.632027 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.2 Bid: 7393.0 Ask: 7397.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:11.914883 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.1 Bid: 7393.0 Ask: 7394.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:13.609928 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.1 Bid: 7393.0 Ask: 7394.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:15.034620 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.1 Bid: 7393.0 Ask: 7394.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:16.743371 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.1 Bid: 7393.0 Ask: 7394.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:18.978367 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.1 Bid: 7393.0 Ask: 7394.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:20.793271 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.1 Bid: 7393.0 Ask: 7394.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:21.963782 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.1 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:23.229352 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.1 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:24.841290 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.1 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:26.599469 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.1 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:27.831484 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.1 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:34.233471 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.9 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:35.524717 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.9 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:37.418626 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.9 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:38.993820 Period: 10000.0ms Symbol: btcusd LastTrade: 7395.0 Bid: 7394.9 Ask: 7395.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:41.684309 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:43.039701 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:44.773467 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:46.473645 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:47.815660 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:51.557592 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:53.760676 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:54.963578 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:56.524131 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:43:59.529050 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:01.904496 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.2 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:03.819948 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.2 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:05.883183 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.2 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:07.743701 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.2 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:09.042840 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.2 Bid: 7397.9 Ask: 7398.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:10.507798 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.1 Ask: 7398.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:12.257833 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.1 Ask: 7398.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:14.406152 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.1 Ask: 7398.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:15.480817 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.1 Ask: 7398.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:33.286576 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.0 Bid: 7398.9 Ask: 7399.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:35.816792 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.0 Bid: 7398.9 Ask: 7399.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:53.194884 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.0 Bid: 7398.9 Ask: 7399.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:55.068079 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.0 Bid: 7398.9 Ask: 7399.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:57.591166 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.0 Bid: 7398.9 Ask: 7399.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:44:59.522648 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.0 Bid: 7398.9 Ask: 7399.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:00.429615 Period: 10000.0ms Symbol: btcusd LastTrade: 7400.0 Bid: 7399.0 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:03.875620 Period: 10000.0ms Symbol: btcusd LastTrade: 7400.0 Bid: 7399.0 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:06.287297 Period: 10000.0ms Symbol: btcusd LastTrade: 7400.0 Bid: 7399.0 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:07.880160 Period: 10000.0ms Symbol: btcusd LastTrade: 7400.0 Bid: 7399.0 Ask: 7400.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:12.657981 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.0 Bid: 7400.2 Ask: 7410.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:14.395052 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.0 Bid: 7400.2 Ask: 7410.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:16.445412 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.0 Bid: 7400.2 Ask: 7410.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:18.253422 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.0 Bid: 7400.2 Ask: 7410.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:20.122367 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.7 Bid: 7404.6 Ask: 7408.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:21.360557 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.7 Bid: 7404.6 Ask: 7408.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:22.599138 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.7 Bid: 7404.6 Ask: 7408.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:23.903102 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.0 Bid: 7400.2 Ask: 7410.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:27.560374 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.7 Bid: 7404.6 Ask: 7408.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:29.398705 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.7 Bid: 7404.6 Ask: 7408.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:37.375716 Period: 10000.0ms Symbol: btcusd LastTrade: 7408.5 Bid: 7408.5 Ask: 7410.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:42.939995 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.7 Bid: 7410.7 Ask: 7410.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:50.024508 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.2 Bid: 7411.1 Ask: 7415.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:45:56.827804 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.2 Bid: 7411.1 Ask: 7415.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:46:15.635391 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.7 Bid: 7411.4 Ask: 7414.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:46:17.466290 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.7 Bid: 7411.4 Ask: 7414.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:46:19.748042 Period: 10000.0ms Symbol: btcusd LastTrade: 7411.7 Bid: 7411.4 Ask: 7414.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:46:20.992432 Period: 10000.0ms Symbol: btcusd LastTrade: 7414.4 Bid: 7410.6 Ask: 7414.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:46:38.477876 Period: 10000.0ms Symbol: btcusd LastTrade: 7418.9 Bid: 7417.4 Ask: 7417.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:46:56.016885 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.7 Ask: 7419.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:46:58.095699 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.7 Ask: 7419.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:00.426466 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.7 Ask: 7419.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:02.288570 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7419.7 Ask: 7419.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:04.118936 Period: 10000.0ms Symbol: btcusd LastTrade: 7425.0 Bid: 7424.9 Ask: 7425.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:06.541810 Period: 10000.0ms Symbol: btcusd LastTrade: 7425.0 Bid: 7424.9 Ask: 7425.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:09.714912 Period: 10000.0ms Symbol: btcusd LastTrade: 7425.0 Bid: 7424.9 Ask: 7425.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:26.719282 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7420.3 Ask: 7425.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:28.659136 Period: 10000.0ms Symbol: btcusd LastTrade: 7420.0 Bid: 7420.3 Ask: 7425.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:31.435883 Period: 10000.0ms Symbol: btcusd LastTrade: 7419.8 Bid: 7419.8 Ask: 7419.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:48.837739 Period: 10000.0ms Symbol: btcusd LastTrade: 7412.0 Bid: 7412.0 Ask: 7413.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:50.582386 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.6 Bid: 7410.3 Ask: 7410.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:52.377544 Period: 10000.0ms Symbol: btcusd LastTrade: 7412.0 Bid: 7412.0 Ask: 7413.3 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:54.113220 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.6 Bid: 7410.3 Ask: 7410.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:47:57.583891 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.6 Bid: 7410.3 Ask: 7410.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:15.157726 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.1 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:18.048351 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.1 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:20.148889 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:21.918809 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:24.854457 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:26.280604 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:27.744197 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:29.914493 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:30.617397 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:32.643048 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:34.034463 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.1 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:36.314676 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.1 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:37.033134 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.1 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:37.939450 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.1 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:40.458065 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:41.501247 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:43.761083 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:46.036155 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:48:47.897025 Period: 10000.0ms Symbol: btcusd LastTrade: 7410.0 Bid: 7410.0 Ask: 7410.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:05.391680 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.7 Bid: 7403.8 Ask: 7403.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:08.362960 Period: 10000.0ms Symbol: btcusd LastTrade: 7404.7 Bid: 7403.8 Ask: 7403.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:25.826132 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.0 Ask: 7398.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:27.631914 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.0 Ask: 7398.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:29.296602 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.0 Ask: 7398.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:32.560013 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.0 Ask: 7398.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:34.426160 Period: 10000.0ms Symbol: btcusd LastTrade: 7398.0 Bid: 7398.0 Ask: 7398.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:51.195443 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.4 Bid: 7397.3 Ask: 7397.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:53.029599 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.4 Bid: 7397.3 Ask: 7397.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:54.762425 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.4 Bid: 7397.3 Ask: 7397.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:55.587306 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.4 Bid: 7397.3 Ask: 7397.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:56.850816 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.4 Bid: 7397.3 Ask: 7397.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:49:58.611444 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.4 Bid: 7397.3 Ask: 7397.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:01.474540 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.1 Bid: 7397.0 Ask: 7397.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:03.559247 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.1 Bid: 7397.0 Ask: 7397.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:05.628012 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.1 Bid: 7397.0 Ask: 7397.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:06.987374 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.1 Bid: 7397.0 Ask: 7397.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:07.982906 Period: 10000.0ms Symbol: btcusd LastTrade: 7397.1 Bid: 7397.0 Ask: 7397.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:13.496829 Period: 10000.0ms Symbol: btcusd LastTrade: 7396.0 Bid: 7396.0 Ask: 7396.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:15.559939 Period: 10000.0ms Symbol: btcusd LastTrade: 7396.0 Bid: 7396.0 Ask: 7396.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:18.489570 Period: 10000.0ms Symbol: btcusd LastTrade: 7396.0 Bid: 7396.0 Ask: 7396.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:21.032435 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.3 Bid: 7394.3 Ask: 7394.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:22.804270 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.3 Bid: 7394.3 Ask: 7394.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:24.063663 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.3 Bid: 7394.3 Ask: 7394.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:24.743448 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.3 Bid: 7394.3 Ask: 7394.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:27.118312 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.3 Bid: 7394.3 Ask: 7394.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:28.874598 Period: 10000.0ms Symbol: btcusd LastTrade: 7394.3 Bid: 7394.3 Ask: 7394.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:31.823699 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.0 Bid: 7394.3 Ask: 7394.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:34.056767 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.0 Bid: 7394.3 Ask: 7394.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:35.300215 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.0 Bid: 7394.3 Ask: 7394.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:36.339995 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.0 Bid: 7394.3 Ask: 7394.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:37.554487 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.0 Bid: 7394.3 Ask: 7394.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:39.104595 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.0 Bid: 7394.3 Ask: 7394.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:42.626510 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.9 Bid: 7383.9 Ask: 7387.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:43.993558 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.9 Bid: 7383.9 Ask: 7387.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:47.142513 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.9 Bid: 7383.9 Ask: 7387.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:47.880691 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.9 Bid: 7383.9 Ask: 7387.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:50.026727 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.9 Bid: 7383.9 Ask: 7387.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:52.509288 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.2 Bid: 7384.4 Ask: 7386.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:57.547976 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.2 Bid: 7384.4 Ask: 7386.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:50:59.114873 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.2 Bid: 7384.4 Ask: 7386.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:01.387900 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.2 Bid: 7384.4 Ask: 7386.4 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:02.247077 Period: 10000.0ms Symbol: btcusd LastTrade: 7381.9 Bid: 7381.9 Ask: 7382.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:03.658776 Period: 10000.0ms Symbol: btcusd LastTrade: 7381.9 Bid: 7381.9 Ask: 7382.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:04.960082 Period: 10000.0ms Symbol: btcusd LastTrade: 7381.9 Bid: 7381.9 Ask: 7382.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:05.678562 Period: 10000.0ms Symbol: btcusd LastTrade: 7381.9 Bid: 7381.9 Ask: 7382.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:06.932835 Period: 10000.0ms Symbol: btcusd LastTrade: 7381.9 Bid: 7381.9 Ask: 7382.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:09.043291 Period: 10000.0ms Symbol: btcusd LastTrade: 7381.9 Bid: 7381.9 Ask: 7382.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:11.062463 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.1 Bid: 7382.2 Ask: 7383.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:12.692007 Period: 10000.0ms Symbol: btcusd LastTrade: 7381.9 Bid: 7381.9 Ask: 7382.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:14.258689 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.1 Bid: 7382.2 Ask: 7383.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:16.102892 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.1 Bid: 7382.2 Ask: 7383.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:17.985347 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.1 Bid: 7382.2 Ask: 7383.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:21.659357 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.8 Bid: 7374.7 Ask: 7379.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:23.953912 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.8 Bid: 7374.7 Ask: 7379.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:25.662098 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.8 Bid: 7374.7 Ask: 7379.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:26.463519 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.8 Bid: 7374.7 Ask: 7379.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:27.838760 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.8 Bid: 7374.7 Ask: 7379.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:45.935088 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.2 Bid: 7377.1 Ask: 7377.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:47.442275 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.2 Bid: 7377.1 Ask: 7377.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:49.094281 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.2 Bid: 7377.1 Ask: 7377.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:51.533798 Period: 10000.0ms Symbol: btcusd LastTrade: 7380.0 Bid: 7378.3 Ask: 7379.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:53.520838 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.2 Bid: 7377.1 Ask: 7377.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:55.488148 Period: 10000.0ms Symbol: btcusd LastTrade: 7380.0 Bid: 7378.3 Ask: 7379.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:51:58.195369 Period: 10000.0ms Symbol: btcusd LastTrade: 7380.0 Bid: 7378.3 Ask: 7379.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:00.616581 Period: 10000.0ms Symbol: btcusd LastTrade: 7379.9 Bid: 7379.9 Ask: 7380.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:02.707224 Period: 10000.0ms Symbol: btcusd LastTrade: 7379.9 Bid: 7379.9 Ask: 7380.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:05.460160 Period: 10000.0ms Symbol: btcusd LastTrade: 7379.9 Bid: 7379.9 Ask: 7380.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:08.010306 Period: 10000.0ms Symbol: btcusd LastTrade: 7379.9 Bid: 7379.9 Ask: 7380.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:25.500453 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.0 Bid: 7377.9 Ask: 7378.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:27.265908 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.0 Bid: 7377.9 Ask: 7378.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:29.110090 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.0 Bid: 7377.9 Ask: 7378.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:31.315235 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.4 Bid: 7377.9 Ask: 7378.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:32.509474 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.4 Bid: 7377.9 Ask: 7378.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:34.344025 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.4 Bid: 7377.9 Ask: 7378.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:36.500487 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.4 Bid: 7377.9 Ask: 7378.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:54.712745 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.0 Bid: 7378.9 Ask: 7379.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:56.713612 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.0 Bid: 7378.9 Ask: 7379.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:52:59.304221 Period: 10000.0ms Symbol: btcusd LastTrade: 7378.0 Bid: 7378.9 Ask: 7379.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:01.497303 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.8 Bid: 7377.0 Ask: 7377.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:03.687907 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.8 Bid: 7377.0 Ask: 7377.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:06.523658 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.8 Bid: 7377.0 Ask: 7377.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:08.143751 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.8 Bid: 7377.0 Ask: 7377.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:11.656867 Period: 10000.0ms Symbol: btcusd LastTrade: 7373.5 Bid: 7373.3 Ask: 7377.8 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:13.371597 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.8 Bid: 7377.0 Ask: 7377.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:30.518104 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.0 Bid: 7374.0 Ask: 7374.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:32.610580 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.0 Bid: 7374.0 Ask: 7374.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:34.417493 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.0 Bid: 7374.0 Ask: 7374.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:36.394260 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.0 Bid: 7374.0 Ask: 7374.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:40.577251 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.9 Bid: 7374.9 Ask: 7375.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:41.807071 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.0 Bid: 7374.0 Ask: 7374.1 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:53:44.218548 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.9 Bid: 7374.9 Ask: 7375.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:01.834472 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.1 Ask: 7374.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:04.389275 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.1 Ask: 7374.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:06.774377 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.1 Ask: 7374.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:09.007412 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.1 Ask: 7374.6 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:11.208482 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.1 Bid: 7374.0 Ask: 7374.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:13.131455 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.1 Bid: 7374.0 Ask: 7374.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:14.994740 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.1 Bid: 7374.0 Ask: 7374.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:17.903844 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.1 Bid: 7374.0 Ask: 7374.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:18.959017 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.1 Bid: 7374.0 Ask: 7374.2 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:21.291935 Period: 10000.0ms Symbol: btcusd LastTrade: 7370.2 Bid: 7374.0 Ask: 7374.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:23.053331 Period: 10000.0ms Symbol: btcusd LastTrade: 7370.2 Bid: 7374.0 Ask: 7374.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:24.788383 Period: 10000.0ms Symbol: btcusd LastTrade: 7370.2 Bid: 7374.0 Ask: 7374.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:26.687694 Period: 10000.0ms Symbol: btcusd LastTrade: 7370.2 Bid: 7374.0 Ask: 7374.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:29.624699 Period: 10000.0ms Symbol: btcusd LastTrade: 7370.2 Bid: 7374.0 Ask: 7374.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:30.837169 Period: 10000.0ms Symbol: btcusd LastTrade: 7370.2 Bid: 7374.0 Ask: 7374.7 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:32.262895 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.0 Ask: 7374.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:35.461306 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.0 Ask: 7374.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:36.169376 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.0 Ask: 7374.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:36.896917 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.0 Ask: 7374.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:37.592343 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.0 Ask: 7374.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:39.044290 Period: 10000.0ms Symbol: btcusd LastTrade: 7374.0 Bid: 7374.0 Ask: 7374.5 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:41.877982 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.7 Bid: 7373.2 Ask: 7374.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:43.381571 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.7 Bid: 7373.2 Ask: 7374.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:44.594574 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.7 Bid: 7373.2 Ask: 7374.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:45.935892 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.7 Bid: 7373.2 Ask: 7374.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:48.068433 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.7 Bid: 7373.2 Ask: 7374.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:51.823077 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7374.8 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:53.146864 Period: 10000.0ms Symbol: btcusd LastTrade: 7375.7 Bid: 7373.2 Ask: 7374.9 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:55.034103 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7374.8 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:56.005908 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7374.8 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:56.826119 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7374.8 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:54:58.558412 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7374.8 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:02.986709 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:05.488304 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:06.991280 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:09.013554 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:11.372658 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:29.164286 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:31.026587 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:49.137496 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:51.039636 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 91787.69976376 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:55:52.477649 Period: 10000.0ms Symbol: btcusd LastTrade: 7376.0 Bid: 7375.9 Ask: 7376.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:11.704300 Period: 10000.0ms Symbol: btcusd LastTrade: 7377.0 Bid: 7376.2 Ask: 7377.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:14.434031 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.3 Bid: 7380.7 Ask: 7383.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:16.310939 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.3 Bid: 7380.7 Ask: 7383.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:18.520972 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.3 Bid: 7380.7 Ask: 7383.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:20.929007 Period: 10000.0ms Symbol: btcusd LastTrade: 7383.3 Bid: 7380.7 Ask: 7383.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:23.772837 Period: 10000.0ms Symbol: btcusd LastTrade: 7385.8 Bid: 7383.4 Ask: 7385.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:25.000407 Period: 10000.0ms Symbol: btcusd LastTrade: 7385.8 Bid: 7383.4 Ask: 7385.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:26.824069 Period: 10000.0ms Symbol: btcusd LastTrade: 7385.8 Bid: 7383.4 Ask: 7385.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:29.127570 Period: 10000.0ms Symbol: btcusd LastTrade: 7385.8 Bid: 7383.4 Ask: 7385.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:30.358264 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7389.2 Ask: 7389.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:32.067027 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7389.2 Ask: 7389.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:33.686923 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7389.2 Ask: 7389.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:35.854339 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7389.2 Ask: 7389.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:37.582483 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7389.2 Ask: 7389.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:39.971427 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.7 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:41.723826 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7389.2 Ask: 7389.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:42.930154 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7389.2 Ask: 7389.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:44.873940 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.7 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:46.365531 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.7 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:49.063758 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.7 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:51.332251 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.7 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:52.598632 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.7 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:56.006710 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:56.935809 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:56:58.852901 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:00.649940 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:01.863957 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:04.325324 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:10.694353 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:12.852973 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:15.597146 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:17.966176 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:20.524190 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:22.763813 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:24.504082 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:26.782934 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:28.727569 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.8 Bid: 7399.8 Ask: 7399.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:30.357350 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:33.665776 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:36.167137 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:39.086471 Period: 10000.0ms Symbol: btcusd LastTrade: 7399.6 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:41.225261 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.5 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:43.252779 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.5 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:57:45.125055 Period: 10000.0ms Symbol: btcusd LastTrade: 7393.5 Bid: 7399.6 Ask: 7399.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:01.738859 Period: 10000.0ms Symbol: btcusd LastTrade: 7392.6 Bid: 7392.6 Ask: 7392.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:03.064050 Period: 10000.0ms Symbol: btcusd LastTrade: 7392.6 Bid: 7392.6 Ask: 7392.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:09.972745 Period: 10000.0ms Symbol: btcusd LastTrade: 7392.6 Bid: 7392.6 Ask: 7392.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:12.302730 Period: 10000.0ms Symbol: btcusd LastTrade: 7392.6 Bid: 7392.6 Ask: 7392.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:14.975015 Period: 10000.0ms Symbol: btcusd LastTrade: 7392.6 Bid: 7392.6 Ask: 7392.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:17.066822 Period: 10000.0ms Symbol: btcusd LastTrade: 7392.6 Bid: 7392.6 Ask: 7392.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:18.904843 Period: 10000.0ms Symbol: btcusd LastTrade: 7392.6 Bid: 7392.6 Ask: 7392.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:21.022476 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.7 Bid: 7389.6 Ask: 7392.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:22.873311 Period: 10000.0ms Symbol: btcusd LastTrade: 7392.6 Bid: 7392.6 Ask: 7392.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:24.909641 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.7 Bid: 7389.6 Ask: 7392.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 10:58:26.252421 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.7 Bid: 7389.6 Ask: 7392.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:17.474746 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.9 Bid: 7389.9 Ask: 7390.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:19.283389 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.9 Bid: 7389.9 Ask: 7390.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:22.040731 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.9 Bid: 7389.9 Ask: 7390.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:24.820920 Period: 10000.0ms Symbol: btcusd LastTrade: 7391.2 Bid: 7389.2 Ask: 7391.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:26.072475 Period: 10000.0ms Symbol: btcusd LastTrade: 7391.2 Bid: 7389.2 Ask: 7391.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:28.088145 Period: 10000.0ms Symbol: btcusd LastTrade: 7391.2 Bid: 7389.2 Ask: 7391.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:30.791363 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.5 Bid: 7389.2 Ask: 7389.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:33.296480 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.5 Bid: 7389.2 Ask: 7389.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:34.527421 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.5 Bid: 7389.2 Ask: 7389.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:36.932610 Period: 10000.0ms Symbol: btcusd LastTrade: 7390.5 Bid: 7389.2 Ask: 7389.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:40.400754 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7388.2 Ask: 7391.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:42.226248 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7388.2 Ask: 7391.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:44.057770 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7388.2 Ask: 7391.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:45.316617 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7388.2 Ask: 7391.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:46.689311 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7388.2 Ask: 7391.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:47.968625 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7388.2 Ask: 7391.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:00:49.184408 Period: 10000.0ms Symbol: btcusd LastTrade: 7389.2 Bid: 7388.2 Ask: 7391.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 16:31:26.632488 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000004 ChangePercent: 0.03113051 Bid: 7373.99999982 Ask: 7381.91000000 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:28.479181 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000004 ChangePercent: 0.03113051 Bid: 7373.99999982 Ask: 7381.91000000 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:29.500693 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000004 ChangePercent: 0.03113051 Bid: 7373.99999983 Ask: 7380.00000000 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 11:01:20.927468 Period: 10000.0ms Symbol: btcusd LastTrade: 7387.9 Bid: 7387.9 Ask: 7388.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 16:31:31.213450 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.99999983 ChangePercent: 0.03076211 Bid: 7373.99999983 Ask: 7380.00000000 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:35.153761 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.99999983 ChangePercent: 0.03076211 Bid: 7373.99999983 Ask: 7380.00000000 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:36.175011 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.99999990 ChangePercent: 0.03057915 Bid: 7373.99999990 Ask: 7380.00000000 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:37.195813 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.99999990 ChangePercent: 0.03057915 Bid: 7373.99999990 Ask: 7380.00000000 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 11:01:32.323917 Period: 10000.0ms Symbol: btcusd LastTrade: 7385.4 Bid: 7385.0 Ask: 7385.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 16:31:41.067986 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.99999990 ChangePercent: 0.03057915 Bid: 7373.99999990 Ask: 7380.00000000 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 11:01:39.357225 Period: 10000.0ms Symbol: btcusd LastTrade: 7385.4 Bid: 7385.0 Ask: 7385.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 16:31:42.717662 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7387.00463039 ChangePercent: 0.03209376 Bid: 7373.99999999 Ask: 7384.99999999 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:43.755344 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.99999979 ChangePercent: 0.03027678 Bid: 7370.90000003 Ask: 7373.99999979 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:44.773905 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.99999979 ChangePercent: 0.03057915 Bid: 7370.90000003 Ask: 7373.99999979 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:45.805786 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.90000003 ChangePercent: 0.02984366 Bid: 7370.90000003 Ask: 7373.99999979 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:46.848757 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.90000003 ChangePercent: 0.02984366 Bid: 7370.90000003 Ask: 7373.99999979 QuoteVolume: 8991.53139760 NetVolume: 63168789.84009740 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 11:01:44.592145 Period: 10000.0ms Symbol: btcusd LastTrade: 7385.0 Bid: 7382.2 Ask: 7382.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:01:49.050809 Period: 10000.0ms Symbol: btcusd LastTrade: 7385.0 Bid: 7382.2 Ask: 7382.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 16:31:50.517030 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.99999979 ChangePercent: 0.03046394 Bid: 7370.90000003 Ask: 7373.99999979 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:31:56.552504 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.90000000 ChangePercent: 0.03014590 Bid: 7370.90000000 Ask: 7377.69628968 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:04.346667 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000000 ChangePercent: 0.03043940 Bid: 7373.00000000 Ask: 7377.69628966 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:05.394413 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000000 ChangePercent: 0.03043940 Bid: 7373.00000000 Ask: 7377.69628963 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:07.037071 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000000 ChangePercent: 0.03043940 Bid: 7370.90000000 Ask: 7373.00000000 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:08.071905 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000000 ChangePercent: 0.03043940 Bid: 7370.90000000 Ask: 7373.00000000 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:11.689894 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000000 ChangePercent: 0.03043940 Bid: 7370.90000000 Ask: 7373.00000000 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:12.717243 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.90000000 ChangePercent: 0.03032878 Bid: 7370.20000000 Ask: 7373.00000000 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:15.697605 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7373.00000000 ChangePercent: 0.03043940 Bid: 7370.20000000 Ask: 7372.99999999 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:16.781230 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.90000000 ChangePercent: 0.03017470 Bid: 7370.00000000 Ask: 7370.90000000 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:17.855687 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.90000000 ChangePercent: 0.03017470 Bid: 7370.00000000 Ask: 7370.90000000 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:19.523098 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.00000000 ChangePercent: 0.03004891 Bid: 7370.00000000 Ask: 7370.89999993 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:20.596649 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.00000000 ChangePercent: 0.03004891 Bid: 7370.00000000 Ask: 7370.89999993 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:21.624885 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.89999993 ChangePercent: 0.03014590 Bid: 7370.00000000 Ask: 7370.89999993 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:22.812380 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.00000000 ChangePercent: 0.03002012 Bid: 7370.00000000 Ask: 7370.89999993 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 11:02:20.892689 Period: 10000.0ms Symbol: btcusd LastTrade: 7366.6 Bid: 7366.6 Ask: 7378.4 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 16:32:23.824681 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.00000000 ChangePercent: 0.03002012 Bid: 7370.00000000 Ask: 7370.89999993 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:24.836236 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.89999992 ChangePercent: 0.02948513 Bid: 7370.00000000 Ask: 7370.89999990 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 16:32:25.863173 Period: 10000.0ms Symbol: USDT_BTC Id: 121 LastTrade: 7370.00000000 ChangePercent: 0.02935943 Bid: 7370.00000000 Ask: 7370.89999989 QuoteVolume: 8986.63610505 NetVolume: 63134450.13379102 24hrLow: 6607.30296794 24hrHigh: 7438.62920135 Frozen: 0
+
+2017-11-03 11:02:25.278437 Period: 10000.0ms Symbol: btcusd LastTrade: 7366.6 Bid: 7366.6 Ask: 7378.4 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:02:28.881234 Period: 10000.0ms Symbol: btcusd LastTrade: 7366.6 Bid: 7366.6 Ask: 7378.4 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:03:35.289327 Period: 10000.0ms Symbol: btcusd LastTrade: 7350.0 Bid: 7350.0 Ask: 7350.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:03:39.143561 Period: 10000.0ms Symbol: btcusd LastTrade: 7350.0 Bid: 7350.0 Ask: 7350.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:03:44.256848 Period: 10000.0ms Symbol: btcusd LastTrade: 7321.0 Bid: 7350.0 Ask: 7350.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:03:49.653551 Period: 10000.0ms Symbol: btcusd LastTrade: 7321.0 Bid: 7350.0 Ask: 7350.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:03:56.051543 Period: 10000.0ms Symbol: btcusd LastTrade: 7326.5 Bid: 7327.5 Ask: 7331.4 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:02.445767 Period: 10000.0ms Symbol: btcusd LastTrade: 7326.5 Bid: 7327.5 Ask: 7331.4 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:11.828492 Period: 10000.0ms Symbol: btcusd LastTrade: 7324.0 Bid: 7321.1 Ask: 7321.4 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:22.156635 Period: 10000.0ms Symbol: btcusd LastTrade: 7313.0 Bid: 7315.6 Ask: 7319.4 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:31.780981 Period: 10000.0ms Symbol: btcusd LastTrade: 7313.0 Bid: 7312.0 Ask: 7313.5 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:35.322432 Period: 10000.0ms Symbol: btcusd LastTrade: 7313.0 Bid: 7312.0 Ask: 7313.5 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:44.563743 Period: 10000.0ms Symbol: btcusd LastTrade: 7312.1 Bid: 7312.0 Ask: 7313.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:49.892148 Period: 10000.0ms Symbol: btcusd LastTrade: 7311.0 Bid: 7311.0 Ask: 7312.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:53.574312 Period: 10000.0ms Symbol: btcusd LastTrade: 7312.1 Bid: 7312.0 Ask: 7313.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:04:58.316893 Period: 10000.0ms Symbol: btcusd LastTrade: 7311.0 Bid: 7311.0 Ask: 7312.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:02.820031 Period: 10000.0ms Symbol: btcusd LastTrade: 7305.2 Bid: 7305.0 Ask: 7305.2 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:07.418795 Period: 10000.0ms Symbol: btcusd LastTrade: 7305.2 Bid: 7305.0 Ask: 7305.2 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:12.982963 Period: 10000.0ms Symbol: btcusd LastTrade: 7304.9 Bid: 7302.5 Ask: 7305.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:16.395143 Period: 10000.0ms Symbol: btcusd LastTrade: 7304.9 Bid: 7302.5 Ask: 7305.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:24.088232 Period: 10000.0ms Symbol: btcusd LastTrade: 7303.8 Bid: 7300.7 Ask: 7303.8 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:27.475469 Period: 10000.0ms Symbol: btcusd LastTrade: 7303.8 Bid: 7300.7 Ask: 7303.8 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:30.876927 Period: 10000.0ms Symbol: btcusd LastTrade: 7309.5 Bid: 7301.3 Ask: 7303.5 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:43.376462 Period: 10000.0ms Symbol: btcusd LastTrade: 7303.5 Bid: 7303.5 Ask: 7303.8 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:53.470877 Period: 10000.0ms Symbol: btcusd LastTrade: 7301.4 Bid: 7301.3 Ask: 7302.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:05:57.924768 Period: 10000.0ms Symbol: btcusd LastTrade: 7301.4 Bid: 7301.3 Ask: 7302.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:05.269880 Period: 10000.0ms Symbol: btcusd LastTrade: 7303.1 Bid: 7301.0 Ask: 7303.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:07.757624 Period: 10000.0ms Symbol: btcusd LastTrade: 7303.1 Bid: 7301.0 Ask: 7303.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:15.379433 Period: 10000.0ms Symbol: btcusd LastTrade: 7293.0 Bid: 7291.9 Ask: 7293.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:20.876165 Period: 10000.0ms Symbol: btcusd LastTrade: 7288.9 Bid: 7279.0 Ask: 7290.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:27.404900 Period: 10000.0ms Symbol: btcusd LastTrade: 7288.9 Bid: 7279.0 Ask: 7290.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:34.987948 Period: 10000.0ms Symbol: btcusd LastTrade: 7281.6 Bid: 7281.5 Ask: 7281.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:38.237707 Period: 10000.0ms Symbol: btcusd LastTrade: 7281.6 Bid: 7281.5 Ask: 7281.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:42.127412 Period: 10000.0ms Symbol: btcusd LastTrade: 7281.6 Bid: 7281.5 Ask: 7281.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:49.907295 Period: 10000.0ms Symbol: btcusd LastTrade: 7279.6 Bid: 7270.9 Ask: 7275.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:06:58.834555 Period: 10000.0ms Symbol: btcusd LastTrade: 7279.6 Bid: 7270.9 Ask: 7275.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:01.578048 Period: 10000.0ms Symbol: btcusd LastTrade: 7279.6 Bid: 7270.9 Ask: 7275.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:05.892730 Period: 10000.0ms Symbol: btcusd LastTrade: 7275.5 Bid: 7275.5 Ask: 7280.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:09.504180 Period: 10000.0ms Symbol: btcusd LastTrade: 7275.5 Bid: 7275.5 Ask: 7280.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:12.788699 Period: 10000.0ms Symbol: btcusd LastTrade: 7290.4 Bid: 7281.3 Ask: 7287.1 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:19.790056 Period: 10000.0ms Symbol: btcusd LastTrade: 7292.7 Bid: 7290.6 Ask: 7292.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:23.150621 Period: 10000.0ms Symbol: btcusd LastTrade: 7292.7 Bid: 7290.6 Ask: 7292.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:26.877033 Period: 10000.0ms Symbol: btcusd LastTrade: 7292.7 Bid: 7290.6 Ask: 7292.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:36.967733 Period: 10000.0ms Symbol: btcusd LastTrade: 7295.8 Bid: 7293.0 Ask: 7295.8 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:42.801763 Period: 10000.0ms Symbol: btcusd LastTrade: 7293.1 Bid: 7293.4 Ask: 7298.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:47.819796 Period: 10000.0ms Symbol: btcusd LastTrade: 7293.1 Bid: 7293.4 Ask: 7298.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:52.042613 Period: 10000.0ms Symbol: btcusd LastTrade: 7293.1 Bid: 7293.4 Ask: 7298.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:07:55.579004 Period: 10000.0ms Symbol: btcusd LastTrade: 7295.2 Bid: 7295.1 Ask: 7297.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:00.151496 Period: 10000.0ms Symbol: btcusd LastTrade: 7299.9 Bid: 7299.8 Ask: 7299.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:06.284329 Period: 10000.0ms Symbol: btcusd LastTrade: 7299.9 Bid: 7299.8 Ask: 7299.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:08.856623 Period: 10000.0ms Symbol: btcusd LastTrade: 7299.9 Bid: 7299.8 Ask: 7299.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:11.199456 Period: 10000.0ms Symbol: btcusd LastTrade: 7299.8 Bid: 7299.8 Ask: 7299.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:14.882129 Period: 10000.0ms Symbol: btcusd LastTrade: 7299.8 Bid: 7299.8 Ask: 7299.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:19.702431 Period: 10000.0ms Symbol: btcusd LastTrade: 7299.8 Bid: 7299.8 Ask: 7299.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:23.967030 Period: 10000.0ms Symbol: btcusd LastTrade: 7307.7 Bid: 7307.6 Ask: 7308.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:27.414055 Period: 10000.0ms Symbol: btcusd LastTrade: 7307.7 Bid: 7307.6 Ask: 7308.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:29.663929 Period: 10000.0ms Symbol: btcusd LastTrade: 7307.7 Bid: 7307.6 Ask: 7308.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:43.245533 Period: 10000.0ms Symbol: btcusd LastTrade: 7310.0 Bid: 7309.1 Ask: 7309.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:47.492761 Period: 10000.0ms Symbol: btcusd LastTrade: 7310.0 Bid: 7309.1 Ask: 7309.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:08:55.734316 Period: 10000.0ms Symbol: btcusd LastTrade: 7310.1 Bid: 7310.1 Ask: 7315.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:05.042896 Period: 10000.0ms Symbol: btcusd LastTrade: 7325.0 Bid: 7318.4 Ask: 7319.8 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:07.803283 Period: 10000.0ms Symbol: btcusd LastTrade: 7325.0 Bid: 7318.4 Ask: 7319.8 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:13.184493 Period: 10000.0ms Symbol: btcusd LastTrade: 7325.0 Bid: 7318.4 Ask: 7319.8 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:17.950923 Period: 10000.0ms Symbol: btcusd LastTrade: 7318.4 Bid: 7311.4 Ask: 7318.5 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:23.098393 Period: 10000.0ms Symbol: btcusd LastTrade: 7314.3 Bid: 7311.5 Ask: 7314.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:26.659726 Period: 10000.0ms Symbol: btcusd LastTrade: 7314.3 Bid: 7311.5 Ask: 7314.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:29.794180 Period: 10000.0ms Symbol: btcusd LastTrade: 7314.3 Bid: 7311.5 Ask: 7314.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:35.309592 Period: 10000.0ms Symbol: btcusd LastTrade: 7310.3 Bid: 7310.2 Ask: 7310.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:38.692951 Period: 10000.0ms Symbol: btcusd LastTrade: 7310.3 Bid: 7310.2 Ask: 7310.3 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:54.337910 Period: 10000.0ms Symbol: btcusd LastTrade: 7311.7 Bid: 7311.6 Ask: 7311.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:09:57.764885 Period: 10000.0ms Symbol: btcusd LastTrade: 7318.1 Bid: 7318.1 Ask: 7318.2 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:00.898987 Period: 10000.0ms Symbol: btcusd LastTrade: 7318.1 Bid: 7318.1 Ask: 7318.2 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:04.229776 Period: 10000.0ms Symbol: btcusd LastTrade: 7324.8 Bid: 7319.7 Ask: 7324.7 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:10.501030 Period: 10000.0ms Symbol: btcusd LastTrade: 7320.4 Bid: 7320.3 Ask: 7323.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:14.979870 Period: 10000.0ms Symbol: btcusd LastTrade: 7320.4 Bid: 7320.3 Ask: 7323.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:17.133405 Period: 10000.0ms Symbol: btcusd LastTrade: 7320.4 Bid: 7320.3 Ask: 7323.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:23.205339 Period: 10000.0ms Symbol: btcusd LastTrade: 7320.4 Bid: 7320.3 Ask: 7323.6 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:28.682579 Period: 10000.0ms Symbol: btcusd LastTrade: 7323.8 Bid: 7323.6 Ask: 7324.2 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:33.449918 Period: 10000.0ms Symbol: btcusd LastTrade: 7324.4 Bid: 7324.3 Ask: 7324.4 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:43.811402 Period: 10000.0ms Symbol: btcusd LastTrade: 7324.9 Bid: 7324.9 Ask: 7325.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:47.869776 Period: 10000.0ms Symbol: btcusd LastTrade: 7324.9 Bid: 7324.9 Ask: 7325.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:51.522467 Period: 10000.0ms Symbol: btcusd LastTrade: 7326.8 Bid: 7326.8 Ask: 7329.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:10:57.429080 Period: 10000.0ms Symbol: btcusd LastTrade: 7326.8 Bid: 7326.8 Ask: 7329.9 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:01.102602 Period: 10000.0ms Symbol: btcusd LastTrade: 7330.0 Bid: 7329.9 Ask: 7330.0 QuoteVolume: 90094.85874353 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:06.417238 Period: 10000.0ms Symbol: btcusd LastTrade: 7330.0 Bid: 7329.9 Ask: 7330.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:12.124934 Period: 10000.0ms Symbol: btcusd LastTrade: 7330.0 Bid: 7329.9 Ask: 7330.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:22.348529 Period: 10000.0ms Symbol: btcusd LastTrade: 7330.0 Bid: 7329.9 Ask: 7330.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:26.084693 Period: 10000.0ms Symbol: btcusd LastTrade: 7330.0 Bid: 7329.9 Ask: 7330.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:29.073369 Period: 10000.0ms Symbol: btcusd LastTrade: 7330.0 Bid: 7329.9 Ask: 7330.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:32.326877 Period: 10000.0ms Symbol: btcusd LastTrade: 7330.0 Bid: 7329.9 Ask: 7330.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:37.305226 Period: 10000.0ms Symbol: btcusd LastTrade: 7329.9 Bid: 7329.9 Ask: 7330.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:41.627959 Period: 10000.0ms Symbol: btcusd LastTrade: 7334.0 Bid: 7330.1 Ask: 7333.9 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:47.690755 Period: 10000.0ms Symbol: btcusd LastTrade: 7334.0 Bid: 7330.1 Ask: 7333.9 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:52.492506 Period: 10000.0ms Symbol: btcusd LastTrade: 7334.0 Bid: 7333.9 Ask: 7334.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:11:56.211424 Period: 10000.0ms Symbol: btcusd LastTrade: 7334.0 Bid: 7333.9 Ask: 7334.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:12:03.876346 Period: 10000.0ms Symbol: btcusd LastTrade: 7333.9 Bid: 7333.9 Ask: 7334.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:12:07.679025 Period: 10000.0ms Symbol: btcusd LastTrade: 7333.9 Bid: 7333.9 Ask: 7334.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:12:12.537794 Period: 10000.0ms Symbol: btcusd LastTrade: 7333.9 Bid: 7333.9 Ask: 7334.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+
+2017-11-03 11:12:16.548058 Period: 10000.0ms Symbol: btcusd LastTrade: 7333.9 Bid: 7333.9 Ask: 7334.0 QuoteVolume: 88555.29982803 24hrLow: 6753.0 24hrHigh: 7448.0
+

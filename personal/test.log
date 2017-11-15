@@ -1,0 +1,369 @@
+ERROR:btfxwss.client:Cannot call subscribe_to_ticker() on unestablished connection!
+ERROR:btfxwss.client:Cannot call subscribe_to_order_book() on unestablished connection!
+ERROR:btfxwss.client:Cannot call subscribe_to_ticker() on unestablished connection!
+ERROR:btfxwss.client:Cannot call subscribe_to_order_book() on unestablished connection!
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'book', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('book', 'BTCUSD')
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+DEBUG:filelock:Attempting to acquire lock 139922966555056 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139922966555056 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139922966556008 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139922966556008 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to release lock 139922966555056 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139922966555056 released on /home/ubanthia/bitco/personal/data.txt
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+DEBUG:filelock:Attempting to acquire lock 139662119521976 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 139662119637120 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 139662119637120 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to release lock 139662119521976 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139662119521976 released on /home/ubanthia/bitco/personal/data.txt
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+DEBUG:filelock:Attempting to acquire lock 140179207532840 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to acquire lock 140179207532784 on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Lock 140179207532784 not acquired on /home/ubanthia/bitco/personal/data.txt, waiting 0.05 seconds ...
+DEBUG:filelock:Attempting to release lock 140179207532840 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140179207532840 released on /home/ubanthia/bitco/personal/data.txt
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+DEBUG:filelock:Attempting to acquire lock 140271677988144 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140271677988144 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to release lock 140271677988144 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140271677988144 released on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to acquire lock 140271678103736 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140271678103736 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to release lock 140271678103736 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140271678103736 released on /home/ubanthia/bitco/personal/data.txt
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+DEBUG:filelock:Attempting to acquire lock 140342712290720 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140342712290720 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to release lock 140342712290720 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140342712290720 released on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to acquire lock 140342712406256 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140342712406256 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to release lock 140342712406256 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140342712406256 released on /home/ubanthia/bitco/personal/data.txt
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+DEBUG:filelock:Attempting to acquire lock 140313222954624 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140313222954624 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to release lock 140313222954624 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140313222954624 released on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to acquire lock 140313223069936 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140313223069936 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to release lock 140313223069936 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 140313223069936 released on /home/ubanthia/bitco/personal/data.txt
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.queue_processor:Subscription succesful for channel ('ticker', 'BTCUSD')
+DEBUG:filelock:Attempting to acquire lock 139748785680456 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139748785680456 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to release lock 139748785680456 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139748785680456 released on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to acquire lock 139748785680680 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139748785680680 acquired on /home/ubanthia/bitco/personal/data.txt
+DEBUG:filelock:Attempting to release lock 139748785680680 on /home/ubanthia/bitco/personal/data.txt
+INFO:filelock:Lock 139748785680680 released on /home/ubanthia/bitco/personal/data.txt
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+ERROR:btfxwss.connection:Already Subscribed
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+ERROR:btfxwss.connection:Already Subscribed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+ERROR:btfxwss.connection:Already Subscribed
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.connection:Connection closed
+INFO:btfxwss.connection:Attempting to connect again in 10 seconds.
+ERROR:btfxwss.client:Cannot call subscribe_to_ticker() on unestablished connection!
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'btcusd'}
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'btcusd'}
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
+INFO:btfxwss.connection:Connection opened
+DEBUG:btfxwss.client:_subscribe: {'event': 'subscribe', 'channel': 'ticker', 'symbol': 'BTCUSD'}
