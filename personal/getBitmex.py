@@ -1,5 +1,7 @@
 import requests
 import simplejson as json
+import bitmex-client
+
 
 headers = {
     'Accept' : 'application/json'
